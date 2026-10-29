@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#eaeff4"/>
+      <stop offset="1" stop-color="#f9ecdb"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#sky)"/>
+  <circle cx="256" cy="224" r="90" fill="#d6402f"/>
+  <!-- Mt Fuji -->
+  <path d="M256 168 L70 420 H442 Z" fill="#34507a"/>
+  <!-- snow cap -->
+  <path d="M256 168 L302 246 L285 237 L270 250 L256 238 L242 250 L227 237 L210 246 Z" fill="#ffffff"/>
+  <!-- soft mist -->
+  <rect x="150" y="338" width="212" height="13" rx="6.5" fill="#f9ecdb" opacity="0.92"/>
+  <rect x="184" y="372" width="144" height="12" rx="6" fill="#f9ecdb" opacity="0.92"/>
+</svg>
