@@ -1,5 +1,5 @@
 /* Service worker — tryb offline dla planu podróży Japonia 2027 */
-const CACHE = 'japonia2027-v1';
+const CACHE = 'japonia2027-v2';
 const CORE = [
   './',
   './index.html',
@@ -8,6 +8,21 @@ const CORE = [
   './icon-192.png',
   './icon-512.png',
   './apple-touch-icon.png',
+  './img/day01-1-susukino.jpg',
+  './img/day02-1-moiwa.jpg',
+  './img/day03-1-kamui.jpg',
+  './img/day04-1-shikisai.jpg',
+  './img/day05-1-bluepond.jpg',
+  './img/day06-1-asahidake.jpg',
+  './img/day07-1-tomita.jpg',
+  './img/day08-1-abashiri.jpg',
+  './img/day09-1-goko.jpg',
+  './img/day10-1-kamuiwakka.jpg',
+  './img/day11-1-mashu.jpg',
+  './img/day12-1-shinjuku.jpg',
+  './img/day13-1-ashi.jpg',
+  './img/day14-1-shinokubo.jpg',
+  './img/day15-1-takeshita.jpg',
   './img/dog.png'
 ];
 
